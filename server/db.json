@@ -1,0 +1,145 @@
+{
+  "users": [],
+  "categoryes": [
+    {
+      "category_id": 1,
+      "category_name": "trang suc"
+    },
+    {
+      "category_id": 2,
+      "category_name": "thoi trang nam"
+    },
+    {
+      "category_id": 3,
+      "category_name": "thoi trang nu"
+    },
+    {
+      "category_id": 4,
+      "category_name": "dien tu"
+    },
+    {
+      "category_id": 5,
+      "category_name": "dien thoai"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Đồng hồ Fake",
+      "price": "20000",
+      "description": "Đồng hồ đẹp fake hàng riu loại 3",
+      "from": "Ching chong",
+      "category_id": 4,
+      "image": "https://cdn.tgdd.vn/Products/Images/7264/251757/festina-f20013-2-nu-ava-600x600.jpg",
+      "discount": 0,
+      "quantity": 999
+    },
+    {
+      "id": 2,
+      "product_name": "Túi xách Vintage",
+      "price": "500000",
+      "description": "Túi xách vintage thời trang dành cho phụ nữ",
+      "from": "Fashion World",
+      "category_id": 2,
+      "image": "https://cdn.example.com/images/bag-vintage.jpg",
+      "discount": 0,
+      "quantity": 50
+    },
+
+    {
+      "id": 3,
+      "product_name": "Áo khoác Unisex",
+      "price": "800000",
+      "description": "Áo khoác unisex thời trang phong cách hiện đại",
+      "from": "Fashion Hub",
+      "category_id": 1,
+      "image": "https://cdn.example.com/images/unisex-jacket.jpg",
+      "discount": 10,
+      "quantity": 20
+    },
+
+    {
+      "id": 4,
+      "product_name": "Giày thể thao Nam",
+      "price": "600000",
+      "description": "Giày thể thao nam chất liệu cao cấp",
+      "from": "Sporty Feet",
+      "category_id": 3,
+      "image": "https://cdn.example.com/images/mens-sports-shoes.jpg",
+      "discount": 15,
+      "quantity": 100
+    },
+
+    {
+      "id": 5,
+      "product_name": "Váy dạ hội",
+      "price": "1200000",
+      "description": "Váy dạ hội sang trọng cho các buổi tiệc đặc biệt",
+      "from": "Elegant Dresses",
+      "category_id": 2,
+      "image": "https://cdn.example.com/images/evening-gown.jpg",
+      "discount": 0,
+      "quantity": 30
+    },
+
+    {
+      "id": 6,
+      "product_name": "Điện thoại di động",
+      "price": "5000000",
+      "description": "Điện thoại di động cao cấp với nhiều tính năng",
+      "from": "Tech Zone",
+      "category_id": 4,
+      "image": "https://cdn.example.com/images/smartphone.jpg",
+      "discount": 5,
+      "quantity": 10
+    },
+
+    {
+      "id": 7,
+      "product_name": "Bình nước thông minh",
+      "price": "250000",
+      "description": "Bình nước thông minh giữ nhiệt tốt",
+      "from": "Home Essentials",
+      "category_id": 5,
+      "image": "https://cdn.example.com/images/smart-water-bottle.jpg",
+      "discount": 0,
+      "quantity": 80
+    },
+
+    {
+      "id": 8,
+      "product_name": "Quần jeans Nam",
+      "price": "700000",
+      "description": "Quần jeans nam phong cách trẻ trung",
+      "from": "Denim Fashion",
+      "category_id": 1,
+      "image": "https://cdn.example.com/images/mens-jeans.jpg",
+      "discount": 20,
+      "quantity": 40
+    },
+
+    {
+      "id": 9,
+      "product_name": "Đồ chơi công nghệ",
+      "price": "350000",
+      "description": "Đồ chơi công nghệ sáng tạo cho trẻ em",
+      "from": "Tech Toys",
+      "category_id": 4,
+      "image": "https://cdn.example.com/images/tech-toys.jpg",
+      "discount": 0,
+      "quantity": 60
+    },
+
+    {
+      "id": 10,
+      "product_name": "Balo du lịch",
+      "price": "900000",
+      "description": "Balo du lịch chất lượng cao",
+      "from": "Travel Gear",
+      "category_id": 5,
+      "image": "https://cdn.example.com/images/travel-backpack.jpg",
+      "discount": 0,
+      "quantity": 25
+    }
+  ]
+}
